@@ -1,0 +1,11 @@
+POST http://localhost:5000/api/itemnya/
+Content-Type: application/json
+
+{
+    "nama": "sukardi",
+    "deskripsi": "sidik",
+    "tes": "sidik"
+}
+
+###
+http://localhost:5000/api/itemnya/
